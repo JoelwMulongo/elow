@@ -99,7 +99,7 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: 1.2rem;
-  color: rgb(9, 42, 72);
+  color: maroon;
   font-weight: bold;
 }
 
@@ -291,7 +291,7 @@ a:active {
    ==================================*/
 .top-header{
     height: 40px;
-    background:  #19294d ;   
+    background:  linear-gradient(45deg, black, transparent) ;   
 }
 
 .top-header .container{
@@ -583,7 +583,7 @@ figure.brand img{
 
 hr.left{
 	width: 70px;
-    border-top: 3px solid    #002966;
+    border-top: 3px solid    #BFA181;
     margin: 15px 0px 15px 0px;
 }
 
@@ -921,7 +921,7 @@ hr.feed{
 
 hr.center{
     width: 80px;
-    border-top: 3px solid    #002966;
+    border-top: 3px solid    #BFA181;
     margin: 15px auto;
 }
 
@@ -1081,7 +1081,7 @@ aside.services .list-group-item:hover .fa{
 .tabs .nav-tabs .nav-link.active,
 .tabs .nav-tabs .nav-item.show .nav-link {
     color: #FFF;
-    background-color:  #19294d ;
+    background-color:  sienna ;
     border-color: #dee2e6 #dee2e6 #fff;
 }
 

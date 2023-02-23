@@ -3,7 +3,7 @@
    ================== */
 nav .container{
     border-radius: 6px;
-    background:   #002966;
+    background:   maroon;
     height: 50px;
     margin: 0px auto;
 }
@@ -33,7 +33,7 @@ nav{
 
 .nav-link:hover, .nav-link:focus {
   text-decoration: none;
-    color: #2C4987;
+    color: peru;
 }
 
 .navbar-brand{
@@ -167,7 +167,7 @@ nav{
     
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1200px) {
     
 .logo-brand{
   width: 140px;
