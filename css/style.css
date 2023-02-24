@@ -137,6 +137,20 @@ a:focus {
   overflow: hidden;
 }
 
+.topHome {
+	border-radius:20%;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 5;
+	background: maroon;
+}
+.topHome .fa-2x {
+font-size: 20px;
+color:#fff;
+margin: 4px;
+}
+
 /* Dropcap */
 .dropcap {
   font-size: 48px;
@@ -316,12 +330,12 @@ blockquote.text-center:before {
 }
 
 .accordion-group .card-header .btn[aria-expanded="true"] {
-  color: #007bff;
+  color: maroon;
 }
 
 .accordion-group .card-header .btn[aria-expanded="true"]::before {
   content: "\f106";
-  background-color: #007bff;
+  background-color: maroon;
 }
 
 .accordion-group.accordion-classic .card-header .btn:before {
