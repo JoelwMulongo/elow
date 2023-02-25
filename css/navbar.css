@@ -3,7 +3,7 @@
    ================== */
 nav .container{
     border-radius: 6px;
-    background:   maroon;
+    background:   yellow;
     height: 50px;
     margin: 0px auto;
 }
@@ -28,12 +28,12 @@ nav{
   font-family: 'Poppins', sans-serif;
   font-size: 14px;
   font-weight: normal;
-  color: #fff;
+  color: black;
 }
 
 .nav-link:hover, .nav-link:focus {
   text-decoration: none;
-    color: peru;
+    color: #002966;
 }
 
 .navbar-brand{
@@ -235,7 +235,9 @@ nav .container{
 }
     
 nav .container .navbar{
-    padding: 0px 5px;
+    padding: 0px 10px;
+    border-radius: 1%;
+    background: linear-gradient(20deg, white, transparent);
 }
     
 .navbar-brand{
