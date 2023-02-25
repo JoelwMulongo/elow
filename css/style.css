@@ -143,7 +143,7 @@ a:focus {
     bottom: 20px;
     right: 20px;
     z-index: 5;
-	background: maroon;
+	background: #002966;
 }
 .topHome .fa-2x {
 font-size: 20px;
@@ -330,12 +330,12 @@ blockquote.text-center:before {
 }
 
 .accordion-group .card-header .btn[aria-expanded="true"] {
-  color: maroon;
+  color: darkcyan;
 }
 
 .accordion-group .card-header .btn[aria-expanded="true"]::before {
   content: "\f106";
-  background-color: maroon;
+  background-color: #002966;
 }
 
 .accordion-group.accordion-classic .card-header .btn:before {
